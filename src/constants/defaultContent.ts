@@ -1,4 +1,5 @@
 import { SiteContent } from '../types.ts';
+import defaultHeroImage from '../assets/images/wardah_exact_portrait_1792053790348.jpg';
 
 export const DEFAULT_CONTENT: SiteContent = {
   brandName: 'WARDAH IJAZ',
@@ -11,7 +12,7 @@ export const DEFAULT_CONTENT: SiteContent = {
   heroDescription:
     'Dedicated mentorship designed specifically for students, housewives, beginners, and aspiring earners to build sustainable independent income through top industry-ready digital crafts.',
   heroUrduNote: 'Har kadam par personal guidance, step-by-step roadmap aur continuous community support.',
-  heroImageUrl: '/src/assets/images/wardah_exact_portrait_1792053790348.jpg',
+  heroImageUrl: defaultHeroImage,
   whatsappNumber: '+923001234567',
   whatsappGroupLink: 'https://chat.whatsapp.com/I1EF4VHHKko92RsyU9h5Vc',
   floatingQuote: 'Skills sirf seekhne ke liye nahi — apni choices khud define karne ke liye hoti hain.',
