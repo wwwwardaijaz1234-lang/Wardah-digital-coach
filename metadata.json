@@ -1,0 +1,8 @@
+{
+  "name": "Wardah Ijaz — Digital Skills Mentor",
+  "description": "Cinematic 3D interactive web experience for Wardah Ijaz, empowering students, housewives, and beginners to master high-demanding digital skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
